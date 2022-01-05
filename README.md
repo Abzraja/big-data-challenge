@@ -1,8 +1,6 @@
 # Big Data Challenge
 
-The purpose of this challnge was to extract a large dataset, transform it and then load it into an RDS database.
-
-The bonus task was to run some queries on the database.
+The purpose of this was to extract a large dataset, transform it and then load it into an RDS database and then bonus task was to run some queries on the database.
 
 
 ## Database view using pgAdmin

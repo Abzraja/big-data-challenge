@@ -42,7 +42,7 @@ In the image is also a few of the SQL queries that were run.
 
 
 ## Vine Reviews Analysis
-* [SQL Queries](/level-2/SQL-Queries.sql) - File containg SQL queries that were run for this task.
+* [SQL Queries](Reviews%20Analysis%20-%20SQL%20Queries/SQL-Queries.sql) - File containg SQL queries that were run for this task.
 
 * Average Star Rating for All Vine reviews was 4.1
 * Average Star Rating for All Non-Vine reviews was 4.1
